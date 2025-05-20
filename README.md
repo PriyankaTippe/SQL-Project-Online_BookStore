@@ -8,10 +8,15 @@ This is a SQL-based data analysis project simulating an **Online Bookstore** usi
 
 📁 online-bookstore-sql/
 ├── 📄 Books.csv
+
 ├── 📄 Customers.csv
+
 ├── 📄 Orders.csv
+
 ├── 💻 Onlinebookstore_Queries.sql
+
 ├── 📘 SQL Project on OnlineBookStore.pdf
+
 └── 📝 README.md
 
 
