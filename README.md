@@ -7,6 +7,7 @@ This is a SQL-based data analysis project simulating an **Online Bookstore** usi
 ## 🗂️ Project Structure
 
 📁 online-bookstore-sql/
+
 ├── 📄 Books.csv
 
 ├── 📄 Customers.csv
